@@ -1,8 +1,8 @@
 home:
-  name: Legal Page
+  name: Notely
   logo: https://static.legalpage.org/images/legalpage.png # 264px * 80px
-  description: Your legal page served from git
-  website: "https://legalpage.org"
+  description: Notely Legal Page
+  website: "https://notely.xyz"
   
 header: 
   enabled: true
@@ -12,7 +12,7 @@ footer:
   enabled: true
 
 theme:
-  primary: '#ff0000'
+  primary: '#F5C500'
   accent: '#00ff00'
 
 pages:
@@ -29,6 +29,6 @@ pages:
   file: imprint.md
 
 placeholder:
- SERVICE: https://legalpage.org
- EMAIL: mail@legalpage.org
- COMPANY: Awesome Company GmbH
+ SERVICE: https://notely.xyz
+ EMAIL: mail@notely.xyz
+ COMPANY: Notely
